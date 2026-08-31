@@ -27,3 +27,11 @@ Parte lateral izquierda, generalmente click debajo de la lupa, en la opcion sour
 Le damos al boton inicializar repositorio, sino aparece esa opcion borrar el archivo oculto .git de la o las carpetas contenedoras
 
 COLOCAR MENSAJE OBLIGATORIO de que fue lo que se hizo y darle en commit
+
+Si aparece una ventana de que no aparece los archivos en stagged, si queremos pasarlos directamente le presionamos que si
+
+Nos arrojara a una ventana independiente para iniciar sesion en GitHub, colocamos correo y contraseña y se devuelve a VSC
+
+Luego nos pide que si queremos un repositorio publico o privado, le damos en publico
+
+Y luego los archivos estaran en GitHub, en la parte superior derecha, en la parte de logo, darle en repositorios 
