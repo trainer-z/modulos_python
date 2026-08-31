@@ -30,8 +30,14 @@ COLOCAR MENSAJE OBLIGATORIO de que fue lo que se hizo y darle en commit
 
 Si aparece una ventana de que no aparece los archivos en stagged, si queremos pasarlos directamente le presionamos que si
 
+Decirle en el boton de public branch
+
 Nos arrojara a una ventana independiente para iniciar sesion en GitHub, colocamos correo y contraseña y se devuelve a VSC
 
 Luego nos pide que si queremos un repositorio publico o privado, le damos en publico
 
 Y luego los archivos estaran en GitHub, en la parte superior derecha, en la parte de logo, darle en repositorios 
+
+# Ya cuando se han enviado archivos
+
+No aparecera el boton de public branch, sino de sincronizar o sync, darle cuando se han hecho cambios al codigo
